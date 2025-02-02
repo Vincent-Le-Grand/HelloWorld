@@ -2,6 +2,9 @@
     font-size: 20px;
 }
 .img1 {
+    border: 500px;
+    border-color: #343b34;
+    border-bottom: 900px;
     width: 300px;
     height: auto;
     float: left;
